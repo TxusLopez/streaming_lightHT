@@ -11,7 +11,7 @@ The aim of this work is to show how two simple and lightweight approaches are co
 
 ## Results
 
-### Window size=50
+### Window size=50 and short grid
 
  Dataset:  agrawal_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
@@ -167,7 +167,7 @@ Dataset:  phising
 | Processing Time | 2.0e-04$\pm$5.9e-05 | 1.7e-05$\pm$2.9e-06 | 3.0e-05$\pm$2.1e-06 | 1.4e-06$\pm$4.8e-08
 | RAM-Hours | 2.0e-04$\pm$5.9e-05 | 1.7e-05$\pm$2.9e-06 | 3.0e-05$\pm$2.1e-06 | 1.4e-06$\pm$4.8e-08
 
-### Window size=300
+### Window size=300 and short grid
 
  Dataset:  agrawal_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
@@ -323,6 +323,12 @@ Dataset:  phising
 | Prequential acc. | 3.1e-03$\pm$9.3e-04 | 3.3e-04$\pm$1.7e-04 | 2.9e-04$\pm$2.0e-05 | 7.8e-05$\pm$4.1e-06
 | Processing Time | 3.1e-03$\pm$9.3e-04 | 3.3e-04$\pm$1.7e-04 | 2.9e-04$\pm$2.0e-05 | 7.8e-05$\pm$4.1e-06
 | RAM-Hours | 3.1e-03$\pm$9.3e-04 | 3.3e-04$\pm$1.7e-04 | 2.9e-04$\pm$2.0e-05 | 7.8e-05$\pm$4.1e-06
+
+### Window size=30 and large grid
+
+
+
+
 
 ## How to replicate the experiments
 
