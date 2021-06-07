@@ -163,9 +163,9 @@ Dataset:  phising
 **Mean results:**
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Prequential acc. | 2.0e-04$\pm$5.9e-05 | 1.7e-05$\pm$2.9e-06 | 3.0e-05$\pm$2.1e-06 | 1.4e-06$\pm$4.8e-08
-| Processing Time | 2.0e-04$\pm$5.9e-05 | 1.7e-05$\pm$2.9e-06 | 3.0e-05$\pm$2.1e-06 | 1.4e-06$\pm$4.8e-08
-| RAM-Hours | 2.0e-04$\pm$5.9e-05 | 1.7e-05$\pm$2.9e-06 | 3.0e-05$\pm$2.1e-06 | 1.4e-06$\pm$4.8e-08
+| Prequential acc. | $0.826\pm0.022$ | $0.829\pm0.039$ | $0.823\pm0.031$ | $0.825\pm0.038$
+| Processing Time | $5.6\pm0.5$ | $5.7\pm0.5$ | $1.4\pm0.1$ | $1.4\pm0.1$
+| RAM-Hours | $2.0e-04\pm5.9e-05$ | $1.7e-05\pm2.9e-06$ | $3.0e-05\pm2.1e-06$ | $1.4e-06\pm4.8e-08$
 
 ### Window size=300 and short grid
 
@@ -320,9 +320,9 @@ Dataset:  phising
 
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Prequential acc. | 3.1e-03$\pm$9.3e-04 | 3.3e-04$\pm$1.7e-04 | 2.9e-04$\pm$2.0e-05 | 7.8e-05$\pm$4.1e-06
-| Processing Time | 3.1e-03$\pm$9.3e-04 | 3.3e-04$\pm$1.7e-04 | 2.9e-04$\pm$2.0e-05 | 7.8e-05$\pm$4.1e-06
-| RAM-Hours | 3.1e-03$\pm$9.3e-04 | 3.3e-04$\pm$1.7e-04 | 2.9e-04$\pm$2.0e-05 | 7.8e-05$\pm$4.1e-06
+| Prequential acc. | $0.756\pm0.017$ | $0.746\pm0.029$ | $0.752\pm0.028$ | $0.745\pm0.036$
+| Processing Time | $36.0\pm4.1$ | $36.2\pm4.1$ | $8.7\pm0.3$ | $9.0\pm0.3$
+| RAM-Hours | $3.1e-03\pm9.3e-04$ | $3.3e-04\pm1.7e-04$ | $2.9e-04\pm2.0e-05$ | $7.8e-05\pm4.1e-06$
 
 ### Window size=30 and large grid
 
@@ -476,11 +476,7 @@ Dataset:  phising
 
 **Mean results:**
 
-| METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Prequential acc. | 3.4e-01$\pm$3.9e-02 | 6.7e-04$\pm$3.7e-05 | 2.3e-05$\pm$3.6e-06 | 2.4e-06$\pm$4.8e-07
-| Processing Time | 3.4e-01$\pm$3.9e-02 | 6.7e-04$\pm$3.7e-05 | 2.3e-05$\pm$3.6e-06 | 2.4e-06$\pm$4.8e-07
-| RAM-Hours | 3.4e-01$\pm$3.9e-02 | 6.7e-04$\pm$3.7e-05 | 2.3e-05$\pm$3.6e-06 | 2.4e-06$\pm$4.8e-07
+
 
 ## How to replicate the experiments
 
