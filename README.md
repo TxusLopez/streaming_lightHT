@@ -170,13 +170,13 @@ Dataset:  phising
 **Nemenyi test:**
 
 For Prequential acc.:
-![Nemenyi test](/results/window_30/pACC_nemenyi.png)
+![Nemenyi test](/results/window_30/images/pACC_nemenyi.png)
 
 For Processing time:
-![Nemenyi test](/results/window_30/pT_nemenyi.png)
+![Nemenyi test](/results/window_30/images/pT_nemenyi.png)
 
 For RAM-Hours:
-![Nemenyi test](/results/window_30/RAM_nemenyi.png)
+![Nemenyi test](/results/window_30/images/RAM_nemenyi.png)
 
 ### Window size=300 and short grid
 
@@ -338,13 +338,13 @@ Dataset:  phising
 **Nemenyi test:**
 
 For Prequential acc.:
-![Nemenyi test](/results/window_300_short_grid/pACC_nemenyi.png)
+![Nemenyi test](/results/window_300/images/pACC_nemenyi.png)
 
 For Processing time:
-![Nemenyi test](/results/window_300_short_grid/pT_nemenyi.png)
+![Nemenyi test](/results/window_300/images/pT_nemenyi.png)
 
 For RAM-Hours:
-![Nemenyi test](/results/window_300_short_grid/RAM_nemenyi.png)
+![Nemenyi test](/results/window_300/images/RAM_nemenyi.png)
 
 ### Window size=50 and large grid
 
@@ -505,13 +505,13 @@ Dataset:  phising
 **Nemenyi test:**
 
 For Prequential acc.:
-![Nemenyi test](/results/window_30_large_grid/pACC_nemenyi.png)
+![Nemenyi test](/results/window_30_large_grid/images/pACC_nemenyi.png)
 
 For Processing time:
-![Nemenyi test](/results/window_30_large_grid/pT_nemenyi.png)
+![Nemenyi test](/results/window_30_large_grid/images/pT_nemenyi.png)
 
 For RAM-Hours:
-![Nemenyi test](/results/window_30_large_grid/RAM_nemenyi.png)
+![Nemenyi test](/results/window_30_large_grid/images/RAM_nemenyi.png)
 
 ## How to replicate the experiments
 
