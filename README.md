@@ -4,6 +4,8 @@
 
 The aim of this work is to show how two simple and lightweight approaches (NEIGHBOURS and DIRECTIONS) are competitive with the well-known Successive Halving algorithm (SHA) and its random version (RSHA). The results show this competitiveness in terms of classification performance, being our approaches less processing time-consuming and less memory-consuming (RAM-Hours). 
 
+Three experiments have been carried out. 1) with a sliding window size of 50 and a short grid of parameters, 2) with a sliding window size of 300 and a short grid of parameters, and 3) with a sliding window size of 50 and a large grid of parameters.
+
 [1] Gomes, H. M., Read, J., Bifet, A., Barddal, J. P., & Gama, J. (2019). Machine learning for streaming data: state of the art, challenges, and opportunities. ACM SIGKDD Explorations Newsletter, 21(2), 6-22.
 
 ## Data generation
@@ -12,11 +14,13 @@ The datasets can be generated with the file "data_gen_v0.py" (see *source_code* 
 
 In case you need to generate other datasets, it is very simple. You can modify the function *data_preparation*, and follow the guidelines of the river framework (https://riverml.xyz/latest/).
 
+Under the folder "datasets" you can find the ones used for this research.
+
 ## Replicating the experiments
 
 The experiments can be replicated by using the file "icdm2021_v0.py" (see *source_code* folder). In the VARIABLES section of the file, first we find the variables that correspond to the grid for the Hoeffding Tree. Here we can use the short or the large mode. Next we can set the scoring (*scoring*), the testing size for the "train_test_split" process (*tst_size*), and the number of repetitions (*runs*) for the experiment with each dataset. Also the *window_size*. Next we can configure the number of iterations in the search process of NEIGHBOURS and DIRECTIONS (*iterations_neighs*, *iterations_direct*). The parameter for the Successive Halving approaches (SHA, RSHA) are *eta*, *budget*, *n_models_sh_random*, and *budget_random*. Finally, there are the variables for the reading of the data, and the name of the datasets themselves.
 
-Once the process has finishes, we can have the results in pkl files.
+Once the process has finishes, we can have the results in pkl files. Under the folder "results" you can find the ones produced by this research in each of the 3 experiments mentioned at the begining.
 
 ## Packages and dependencies
 
