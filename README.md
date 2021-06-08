@@ -167,6 +167,17 @@ Dataset:  phising
 | Processing Time | $5.6\pm0.5$ | $5.7\pm0.5$ | $1.4\pm0.1$ | $1.4\pm0.1$
 | RAM-Hours | $2.0e-04\pm5.9e-05$ | $1.7e-05\pm2.9e-06$ | $3.0e-05\pm2.1e-06$ | $1.4e-06\pm4.8e-08$
 
+**Nemenyi test:**
+
+For Prequential acc.:
+![Nemenyi test](/results/window_30/pACC_nemenyi.png)
+
+For Processing time:
+![Nemenyi test](/results/window_30/pT_nemenyi.png)
+
+For RAM-Hours:
+![Nemenyi test](/results/window_30/RAM_nemenyi.png)
+
 ### Window size=300 and short grid
 
  Dataset:  agrawal_0_1
@@ -323,6 +334,17 @@ Dataset:  phising
 | Prequential acc. | $0.756\pm0.017$ | $0.746\pm0.029$ | $0.752\pm0.028$ | $0.745\pm0.036$
 | Processing Time | $36.0\pm4.1$ | $36.2\pm4.1$ | $8.7\pm0.3$ | $9.0\pm0.3$
 | RAM-Hours | $3.1e-03\pm9.3e-04$ | $3.3e-04\pm1.7e-04$ | $2.9e-04\pm2.0e-05$ | $7.8e-05\pm4.1e-06$
+
+**Nemenyi test:**
+
+For Prequential acc.:
+![Nemenyi test](/results/window_300_short_grid/pACC_nemenyi.png)
+
+For Processing time:
+![Nemenyi test](/results/window_300_short_grid/pT_nemenyi.png)
+
+For RAM-Hours:
+![Nemenyi test](/results/window_300_short_grid/RAM_nemenyi.png)
 
 ### Window size=50 and large grid
 
@@ -482,7 +504,14 @@ Dataset:  phising
 
 **Nemenyi test:**
 
+For Prequential acc.:
 ![Nemenyi test](/results/window_30_large_grid/pACC_nemenyi.png)
+
+For Processing time:
+![Nemenyi test](/results/window_30_large_grid/pT_nemenyi.png)
+
+For RAM-Hours:
+![Nemenyi test](/results/window_30_large_grid/RAM_nemenyi.png)
 
 ## How to replicate the experiments
 
