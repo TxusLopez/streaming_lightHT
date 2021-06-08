@@ -6,7 +6,12 @@ The aim of this work is to show how two simple and lightweight approaches (NEIGH
 
 [1] Gomes, H. M., Read, J., Bifet, A., Barddal, J. P., & Gama, J. (2019). Machine learning for streaming data: state of the art, challenges, and opportunities. ACM SIGKDD Explorations Newsletter, 21(2), 6-22.
 
-## Experiments
+## Data generation
+
+
+
+## Replicating the experiments
+
 
 
 ## Results
@@ -513,17 +518,3 @@ For Processing time:
 For RAM-Hours:
 ![Nemenyi test](/results/window_30_large_grid/images/RAM_nemenyi.png)
 
-## How to replicate the experiments
-
-
-
-
-**Este texto está en negrita**
-*Este texto está en cursiva*
-Tal como dice Abraham Lincoln:
-
-> Con perdón de la expresión
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
