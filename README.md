@@ -8,7 +8,9 @@ The aim of this work is to show how two simple and lightweight approaches (NEIGH
 
 ## Data generation
 
+The datasets can be generated with the file "data_gen_v0.py". The variable *length_dataset* set the number of instances that will be included in the stream. The variable *change_width* set the width of the drift, being 1 for abrupt drifts, and larger values for more gradual ones. The variable *datas* is a list of all datasets considered for generation. And *path_data* set the place where the datasets (in csv format) will be placed in your computer.
 
+In case you need to generate other datasets, it is very simple. You can modify the function *data_preparation*, and follow the guidelines of the river framework (https://riverml.xyz/latest/).
 
 ## Replicating the experiments
 
