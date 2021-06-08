@@ -18,6 +18,10 @@ The experiments can be replicated by using the file "icdm2021_v0.py" (see *sourc
 
 Once the process has finishes, we can have the results in pkl files.
 
+## Packages and dependencies
+
+We have used the following libraries and packages: pandas, warnings, traceback, collections, timeit, river, numpy, random, pickle, psutil, and itertools.
+
 ## Results
 
 ### Window size=50 and short grid
