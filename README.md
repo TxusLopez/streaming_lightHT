@@ -480,7 +480,8 @@ Dataset:  phising
 | Processing Time | $122.3\pm9.8$ | $122.3\pm9.8$ | $1.3\pm0.1$ | $1.4\pm0.1$
 | RAM-Hours | $3.3e-01\pm3.8e-02$ | $6.4e-04\pm6.1e-05$ | $2.2e-05\pm2.3e-06$ | $6.5e-06\pm4.8e-07$
 
-
+**Nemenyi test:**
+![Nemenyi test](/images/logo.png)
 
 
 ## How to replicate the experiments
