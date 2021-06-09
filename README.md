@@ -248,19 +248,23 @@ For RAM-Hours:
 
 ![agrawal_0_1_(w300_short)](/results/window_300/images/agrawal_0_1.png)
 
-Dataset:  agrawal_1_2
+#### Dataset:  agrawal_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.702+-0.033 | 0.703+-0.037 | 0.628+-0.083 | 0.669+-0.078
 | Processing Time | 45.5+-0.7 | 45.8+-0.7 | 9.6+-0.2 | 10.0+-0.2
 | RAM-Hours | 3.4e-03+-1.1e-04 | 3.7e-04+-1.1e-05 | 8.7e-04+-1.8e-05 | 3.6e-04+-1.3e-05
 
-Dataset:  agrawal_2_3
+![agrawal_1_2_(w300_short)](/results/window_300/images/agrawal_1_2.png)
+
+#### Dataset:  agrawal_2_3
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.721+-0.044 | 0.725+-0.052 | 0.718+-0.056 | 0.708+-0.061
 | Processing Time | 44.6+-1.4 | 44.9+-1.4 | 9.8+-0.6 | 10.2+-0.6
 | RAM-Hours | 1.4e-03+-5.5e-05 | 1.6e-04+-8.0e-06 | 2.4e-03+-2.0e-04 | 3.0e-06+-0.0e+00
+
+![agrawal_2_3_(w300_short)](/results/window_300/images/agrawal_2_3.png)
 
 Dataset:  agrawal_3_4
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
