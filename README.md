@@ -39,61 +39,77 @@ We have used the following libraries and packages: pandas, warnings, traceback, 
 
 ![agrawal_0_1_(w50_short)](/results/window_30/images/agrawal_0_1.png)
 
-Dataset:  agrawal_1_2
+#### Dataset:  agrawal_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.699+-0.029 | 0.646+-0.097 | 0.592+-0.054 | 0.626+-0.084
 | Processing Time | 6.9+-0.1 | 7.0+-0.1 | 1.5+-0.0 | 1.6+-0.0
 | RAM-Hours | 1.1e-04+-1.0e-06 | 1.0e-06+-0.0e+00 | 6.9e-05+-3.0e-06 | 0.0e+00+-0.0e+00
 
-Dataset:  agrawal_2_3
+![agrawal_1_2_(w50_short)](/results/window_30/images/agrawal_1_2.png)
+
+#### Dataset:  agrawal_2_3
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.684+-0.069 | 0.753+-0.071 | 0.706+-0.069 | 0.724+-0.096
 | Processing Time | 6.9+-0.4 | 7.1+-0.4 | 1.4+-0.0 | 1.4+-0.0
 | RAM-Hours | 3.5e-04+-3.4e-05 | 1.6e-04+-1.6e-05 | 2.5e-05+-1.0e-06 | 4.0e-06+-0.0e+00
 
-Dataset:  agrawal_3_4
+![agrawal_2_3_(w50_short)](/results/window_30/images/agrawal_2_3.png)
+
+#### Dataset:  agrawal_3_4
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.768+-0.011 | 0.769+-0.013 | 0.767+-0.012 | 0.771+-0.015
 | Processing Time | 6.5+-0.0 | 6.6+-0.0 | 1.4+-0.0 | 1.4+-0.0
 | RAM-Hours | 1.3e-04+-1.0e-06 | 1.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  agrawal_4_5
+![agrawal_3_4_(w50_short)](/results/window_30/images/agrawal_3_4.png)
+
+#### Dataset:  agrawal_4_5
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.732+-0.013 | 0.747+-0.048 | 0.734+-0.014 | 0.759+-0.034
 | Processing Time | 7.2+-0.3 | 7.3+-0.3 | 1.6+-0.1 | 1.7+-0.1
 | RAM-Hours | 0.0e+00+-0.0e+00 | 3.0e-05+-3.0e-06 | 1.4e-04+-6.0e-06 | 3.0e-06+-0.0e+00
 
-Dataset:  agrawal_5_6
+![agrawal_4_5_(w50_short)](/results/window_30/images/agrawal_4_5.png)
+
+#### Dataset:  agrawal_5_6
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.773+-0.015 | 0.781+-0.029 | 0.779+-0.024 | 0.780+-0.024
 | Processing Time | 6.6+-0.1 | 6.7+-0.1 | 1.5+-0.1 | 1.6+-0.1
 | RAM-Hours | 3.3e-04+-4.0e-06 | 1.0e-06+-0.0e+00 | 8.5e-05+-6.0e-06 | 5.0e-06+-0.0e+00
 
-Dataset:  agrawal_6_7
+![agrawal_5_6_(w50_short)](/results/window_30/images/agrawal_5_6.png)
+
+#### Dataset:  agrawal_6_7
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.895+-0.008 | 0.895+-0.010 | 0.895+-0.009 | 0.897+-0.010
 | Processing Time | 6.1+-0.3 | 6.2+-0.3 | 1.1+-0.0 | 1.2+-0.0
 | RAM-Hours | 2.7e-04+-2.2e-05 | 0.0e+00+-0.0e+00 | 2.3e-05+-1.0e-06 | 0.0e+00+-0.0e+00
 
-Dataset:  agrawal_7_8
+![agrawal_6_7_(w50_short)](/results/window_30/images/agrawal_6_7.png)
+
+#### Dataset:  agrawal_7_8
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.903+-0.001 | 0.884+-0.013 | 0.908+-0.004 | 0.901+-0.009
 | Processing Time | 6.7+-0.1 | 6.8+-0.1 | 1.5+-0.0 | 1.5+-0.0
 | RAM-Hours | 1.1e-04+-3.0e-06 | 3.0e-05+-1.0e-06 | 6.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  agrawal_8_9
+![agrawal_7_8_(w50_short)](/results/window_30/images/agrawal_7_8.png)
+
+#### Dataset:  agrawal_8_9
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.907+-0.005 | 0.907+-0.006 | 0.907+-0.006 | 0.907+-0.006
 | Processing Time | 4.9+-0.0 | 5.0+-0.0 | 1.0+-0.0 | 1.1+-0.0
 | RAM-Hours | 3.8e-05+-0.0e+00 | 5.0e-06+-0.0e+00 | 1.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
+
+![agrawal_8_9_(w50_short)](/results/window_30/images/agrawal_8_9.png)
 
 Dataset:  mixed
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
