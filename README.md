@@ -31,7 +31,7 @@ Once the process has finishes, we can have the results in pkl files. Under the f
 
 ## Packages and dependencies
 
-We have used the following libraries and packages: pandas, warnings, traceback, collections, timeit, river, numpy, random, pickle, psutil, and itertools.
+Developments in Python 3. We have used the following libraries/packages: pandas, warnings, traceback, collections, timeit, river, numpy, random, pickle, psutil, and itertools.
 
 ## Results
 
