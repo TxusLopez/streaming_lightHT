@@ -449,12 +449,14 @@ For RAM-Hours:
 
 ### Mean metrics in 25 runs for Window size=50 and large grid
 
-Dataset:  agrawal_0_1
+#### Dataset:  agrawal_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.763+-0.013 | 0.769+-0.034 | 0.768+-0.046 | 0.791+-0.033
 | Processing Time | 149.8+-1.7 | 149.8+-1.7 | 1.4+-0.1 | 1.4+-0.1
 | RAM-Hours | 8.1e-01+-3.6e-04 | 1.6e-04+-3.0e-06 | 4.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
+
+![phising_(w30_large)](/results/window_30_large_grid/images/agrawal_0_1.png)
 
 Dataset:  agrawal_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
