@@ -37,6 +37,8 @@ We have used the following libraries and packages: pandas, warnings, traceback, 
 | Processing Time | 6.7+-0.1 | 6.7+-0.1 | 1.4+-0.1 | 1.4+-0.1
 | RAM-Hours | 8.9e-04+-1.4e-05 | 0.0e+00+-0.0e+00 | 5.3e-05+-4.0e-06 | 6.0e-06+-0.0e+00
 
+![agrawal_0_1_(w50_short)](/results/window_30/images/agrawal_0_1.png)
+
 Dataset:  agrawal_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
