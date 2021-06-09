@@ -28,7 +28,7 @@ We have used the following libraries and packages: pandas, warnings, traceback, 
 
 ## Results
 
-### Window size=50 and short grid
+### Mean metrics in 25 runs for Window size=50 and short grid:
 
  Dataset:  agrawal_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
@@ -195,7 +195,7 @@ For Processing time:
 For RAM-Hours:
 ![Nemenyi test](/results/window_30/images/RAM_nemenyi.png)
 
-### Window size=300 and short grid
+### Mean metrics in 25 runs for Window size=300 and short grid
 
  Dataset:  agrawal_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
@@ -363,7 +363,7 @@ For Processing time:
 For RAM-Hours:
 ![Nemenyi test](/results/window_300/images/RAM_nemenyi.png)
 
-### Window size=50 and large grid
+### Mean metrics in 25 runs for Window size=50 and large grid
 
 Dataset:  agrawal_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
