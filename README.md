@@ -111,40 +111,50 @@ We have used the following libraries and packages: pandas, warnings, traceback, 
 
 ![agrawal_8_9_(w50_short)](/results/window_30/images/agrawal_8_9.png)
 
-Dataset:  mixed
+#### Dataset:  mixed
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.861+-0.025 | 0.835+-0.064 | 0.834+-0.062 | 0.839+-0.053
 | Processing Time | 4.7+-0.1 | 4.7+-0.1 | 1.1+-0.0 | 1.1+-0.0
 | RAM-Hours | 5.0e-05+-1.0e-06 | 0.0e+00+-0.0e+00 | 7.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  randomRBF
+![mixed_(w50_short)](/results/window_30/images/mixed.png)
+
+#### Dataset:  randomRBF
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.802+-0.039 | 0.798+-0.044 | 0.801+-0.039 | 0.793+-0.048
 | Processing Time | 7.0+-0.1 | 7.1+-0.0 | 1.5+-0.0 | 1.5+-0.0
 | RAM-Hours | 1.5e-04+-1.0e-06 | 2.0e-06+-0.0e+00 | 6.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  sea_0_1
+![randomRBF_(w50_short)](/results/window_30/images/randomRBF.png)
+
+#### Dataset:  sea_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.907+-0.009 | 0.901+-0.022 | 0.905+-0.012 | 0.890+-0.025
 | Processing Time | 4.5+-0.1 | 4.6+-0.1 | 1.0+-0.0 | 1.0+-0.0
 | RAM-Hours | 6.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00 | 8.0e-06+-0.0e+00 | 4.0e-06+-0.0e+00
 
-Dataset:  sea_1_2
+![sea_0_1_(w50_short)](/results/window_30/images/sea_0_1.png)
+
+#### Dataset:  sea_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.903+-0.018 | 0.900+-0.025 | 0.901+-0.024 | 0.901+-0.022
 | Processing Time | 4.6+-0.1 | 4.7+-0.1 | 1.0+-0.0 | 1.1+-0.0
 | RAM-Hours | 9.4e-05+-4.0e-06 | 5.2e-05+-2.0e-06 | 3.4e-05+-1.0e-06 | 2.0e-06+-0.0e+00
 
-Dataset:  sea_2_3
+![sea_1_2_(w50_short)](/results/window_30/images/sea_1_2.png)
+
+#### Dataset:  sea_2_3
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.914+-0.009 | 0.908+-0.016 | 0.895+-0.037 | 0.901+-0.024
 | Processing Time | 4.6+-0.0 | 4.6+-0.0 | 1.0+-0.0 | 1.0+-0.0
 | RAM-Hours | 1.8e-04+-1.0e-06 | 1.3e-05+-0.0e+00 | 5.0e-06+-0.0e+00 | 2.0e-06+-0.0e+00
+
+![sea_2_3_(w50_short)](/results/window_30/images/sea_2_3.png)
 
 Dataset:  stagger_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
