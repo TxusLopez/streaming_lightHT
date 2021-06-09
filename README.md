@@ -4,7 +4,10 @@
 
 The aim of this work is to show how two simple and lightweight approaches (NEIGHBOURS and DIRECTIONS) are competitive with the well-known Successive Halving algorithm (SHA) and its random version (RSHA). The results show this competitiveness in terms of classification performance, being our approaches less processing time-consuming and less memory-consuming (RAM-Hours). 
 
-Three experiments have been carried out. 1) with a sliding window size of 50 and a short grid of parameters, 2) with a sliding window size of 300 and a short grid of parameters, and 3) with a sliding window size of 50 and a large grid of parameters.
+Three experiments have been carried out: 
+1. with a sliding window size of 50 and a short grid of parameters
+2. with a sliding window size of 300 and a short grid of parameters, and
+3. with a sliding window size of 50 and a large grid of parameters.
 
 [1] Gomes, H. M., Read, J., Bifet, A., Barddal, J. P., & Gama, J. (2019). Machine learning for streaming data: state of the art, challenges, and opportunities. ACM SIGKDD Explorations Newsletter, 21(2), 6-22.
 
