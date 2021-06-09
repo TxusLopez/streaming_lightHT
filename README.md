@@ -17,13 +17,17 @@ The datasets can be generated with the file "data_gen_v0.py" (see *source_code* 
 
 In case you need to generate other datasets, it is very simple. You can modify the function *data_preparation*, and follow the guidelines of the river framework (https://riverml.xyz/latest/).
 
-Under the folder "datasets" you can find the ones used for this research.
+Under the folder "datasets" you can find the ones used for this research. 
+
+(We have used Python 3)
 
 ## Replicating the experiments
 
 The experiments can be replicated by using the file "icdm2021_v0.py" (see *source_code* folder). In the VARIABLES section of the file, first we find the variables that correspond to the grid for the Hoeffding Tree. Here we can use the short or the large mode. Next we can set the scoring (*scoring*), the testing size for the "train_test_split" process (*tst_size*), and the number of repetitions (*runs*) for the experiment with each dataset. Also the *window_size*. Next we can configure the number of iterations in the search process of NEIGHBOURS and DIRECTIONS (*iterations_neighs*, *iterations_direct*). The parameter for the Successive Halving approaches (SHA, RSHA) are *eta*, *budget*, *n_models_sh_random*, and *budget_random*. Finally, there are the variables for the reading of the data, and the name of the datasets themselves.
 
 Once the process has finishes, we can have the results in pkl files. Under the folder "results" you can find the ones produced by this research in each of the 3 experiments mentioned at the begining.
+
+(We have used Python 3)
 
 ## Packages and dependencies
 
