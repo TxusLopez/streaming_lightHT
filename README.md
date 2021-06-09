@@ -219,7 +219,7 @@ We have used the following libraries and packages: pandas, warnings, traceback, 
 
 ![phising_(w50_short)](/results/window_30/images/phising.png)
 
-**Mean results:**
+**Mean results for all datasets:**
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | $0.826\pm0.022$ | $0.829\pm0.039$ | $0.823\pm0.031$ | $0.825\pm0.038$
@@ -239,12 +239,14 @@ For RAM-Hours:
 
 ### Mean metrics in 25 runs for Window size=300 and short grid
 
- Dataset:  agrawal_0_1
+#### Dataset:  agrawal_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.760+-0.014 | 0.764+-0.018 | 0.745+-0.052 | 0.703+-0.056
 | Processing Time | 43.7+-0.1 | 44.1+-0.1 | 9.6+-0.2 | 10.0+-0.2
 | RAM-Hours | 1.1e-02+-1.0e-05 | 2.2e-03+-5.0e-06 | 1.8e-04+-5.0e-06 | 1.0e-06+-0.0e+00
+
+![agrawal_0_1_(w300_short)](/results/window_300/images/agrawal_0_1.png)
 
 Dataset:  agrawal_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
@@ -386,7 +388,7 @@ Dataset:  phising
 | Processing Time | 18.4+-17.6 | 18.6+-17.7 | 8.7+-0.7 | 9.0+-0.7
 | RAM-Hours | 1.6e-03+-3.2e-03 | 4.6e-05+-1.6e-04 | 5.0e-04+-9.3e-05 | 3.1e-05+-8.0e-06
 
-**Mean results:**
+**Mean results for all datasets:**
 
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -554,7 +556,7 @@ Dataset:  phising
 | Processing Time | 64.7+-59.5 | 64.8+-59.5 | 1.5+-0.0 | 1.5+-0.0
 | RAM-Hours | 7.2e-02+-8.5e-02 | 1.5e-04+-3.2e-04 | 1.5e-05+-1.0e-06 | 2.0e-06+-0.0e+00
 
-**Mean results:**
+**Mean results for all datasets:**
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | $0.835\pm0.012$ | $0.837\pm0.027$ | $0.831\pm0.028$ | $0.835\pm0.025$
