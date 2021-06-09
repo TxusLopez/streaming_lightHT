@@ -30,7 +30,7 @@ We have used the following libraries and packages: pandas, warnings, traceback, 
 
 ### Mean metrics in 25 runs for Window size=50 and short grid:
 
- Dataset:  agrawal_0_1
+ #### Dataset:  agrawal_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.772+-0.014 | 0.798+-0.035 | 0.776+-0.022 | 0.793+-0.032
