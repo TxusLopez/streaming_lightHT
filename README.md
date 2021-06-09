@@ -456,147 +456,187 @@ For RAM-Hours:
 | Processing Time | 149.8+-1.7 | 149.8+-1.7 | 1.4+-0.1 | 1.4+-0.1
 | RAM-Hours | 8.1e-01+-3.6e-04 | 1.6e-04+-3.0e-06 | 4.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-![phising_(w30_large)](/results/window_30_large_grid/images/agrawal_0_1.png)
+![agrawal_0_1_(w30_large)](/results/window_30_large_grid/images/agrawal_0_1.png)
 
-Dataset:  agrawal_1_2
+#### Dataset:  agrawal_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.717+-0.019 | 0.691+-0.075 | 0.628+-0.056 | 0.671+-0.040
 | Processing Time | 152.2+-4.5 | 152.3+-4.5 | 1.5+-0.0 | 1.5+-0.0
 | RAM-Hours | 7.1e-01+-4.9e-04 | 2.0e-05+-1.0e-06 | 1.5e-05+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  agrawal_2_3
+![agrawal_1_2_(w30_large)](/results/window_30_large_grid/images/agrawal_1_2.png)
+
+#### Dataset:  agrawal_2_3
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.712+-0.033 | 0.764+-0.049 | 0.756+-0.066 | 0.763+-0.051
 | Processing Time | 152.9+-4.1 | 153.0+-4.1 | 1.4+-0.0 | 1.4+-0.0
 | RAM-Hours | 7.7e-01+-6.8e-04 | 9.7e-04+-5.2e-05 | 2.1e-05+-1.0e-06 | 7.0e-06+-0.0e+00
 
-Dataset:  agrawal_3_4
+![agrawal_2_3_(w30_large)](/results/window_30_large_grid/images/agrawal_2_3.png)
+
+#### Dataset:  agrawal_3_4
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.768+-0.016 | 0.775+-0.028 | 0.776+-0.027 | 0.777+-0.027
 | Processing Time | 147.9+-4.6 | 148.0+-4.6 | 1.4+-0.1 | 1.5+-0.1
 | RAM-Hours | 6.9e-01+-6.0e-04 | 3.1e-03+-1.7e-04 | 7.7e-05+-1.0e-05 | 0.0e+00+-0.0e+00
 
-Dataset:  agrawal_4_5
+![agrawal_3_4_(w30_large)](/results/window_30_large_grid/images/agrawal_3_4.png)
+
+#### Dataset:  agrawal_4_5
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.733+-0.005 | 0.756+-0.012 | 0.735+-0.022 | 0.760+-0.015
 | Processing Time | 148.5+-1.3 | 148.6+-1.3 | 1.5+-0.0 | 1.5+-0.0
 | RAM-Hours | 6.0e-01+-2.9e-04 | 0.0e+00+-0.0e+00 | 3.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  agrawal_5_6
+![agrawal_4_5_(w30_large)](/results/window_30_large_grid/images/agrawal_4_5.png)
+
+#### Dataset:  agrawal_5_6
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.784+-0.011 | 0.796+-0.015 | 0.775+-0.016 | 0.790+-0.019
 | Processing Time | 142.8+-1.0 | 143.0+-1.0 | 1.5+-0.0 | 1.5+-0.0
 | RAM-Hours | 6.5e-01+-1.6e-04 | 6.0e-04+-8.0e-06 | 8.0e-06+-0.0e+00 | 3.1e-05+-2.0e-06
 
-Dataset:  agrawal_6_7
+![agrawal_5_6_(w30_large)](/results/window_30_large_grid/images/agrawal_5_6.png)
+
+#### Dataset:  agrawal_6_7
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.908+-0.005 | 0.909+-0.006 | 0.908+-0.006 | 0.908+-0.005
 | Processing Time | 131.5+-2.4 | 131.5+-2.4 | 1.1+-0.0 | 1.2+-0.0
 | RAM-Hours | 4.2e-01+-2.1e-04 | 1.2e-05+-0.0e+00 | 2.6e-05+-1.0e-06 | 1.0e-06+-0.0e+00
 
-Dataset:  agrawal_7_8
+![agrawal_6_7_(w30_large)](/results/window_30_large_grid/images/agrawal_6_7.png)
+
+#### Dataset:  agrawal_7_8
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.903+-0.001 | 0.895+-0.011 | 0.892+-0.013 | 0.900+-0.007
 | Processing Time | 144.1+-0.8 | 144.2+-0.8 | 1.5+-0.0 | 1.5+-0.0
 | RAM-Hours | 4.6e-01+-6.2e-05 | 2.4e-04+-2.0e-06 | 3.7e-05+-1.0e-06 | 5.0e-05+-2.0e-06
 
-Dataset:  agrawal_8_9
+![agrawal_7_8_(w30_large)](/results/window_30_large_grid/images/agrawal_7_8.png)
+
+#### Dataset:  agrawal_8_9
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.906+-0.009 | 0.905+-0.009 | 0.905+-0.009 | 0.905+-0.010
 | Processing Time | 110.6+-0.6 | 110.7+-0.6 | 1.0+-0.0 | 1.1+-0.0
 | RAM-Hours | 2.8e-01+-5.0e-05 | 4.6e-04+-5.0e-06 | 2.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  mixed
+![agrawal_8_9_(w30_large)](/results/window_30_large_grid/images/agrawal_8_9.png)
+
+#### Dataset:  mixed
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.865+-0.029 | 0.865+-0.035 | 0.847+-0.061 | 0.843+-0.058
 | Processing Time | 100.9+-0.4 | 101.0+-0.4 | 1.1+-0.0 | 1.1+-0.0
 | RAM-Hours | 1.2e-01+-3.0e-05 | 9.7e-04+-5.0e-06 | 2.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  randomRBF
+![mixed_(w30_large)](/results/window_30_large_grid/images/mixed.png)
+
+#### Dataset:  randomRBF
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.816+-0.021 | 0.806+-0.024 | 0.812+-0.025 | 0.810+-0.025
 | Processing Time | 149.0+-1.0 | 149.1+-1.0 | 1.4+-0.0 | 1.5+-0.0
 | RAM-Hours | 5.3e-01+-7.9e-05 | 5.2e-03+-6.8e-05 | 4.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  sea_0_1
+![randomRBF_(w30_large)](/results/window_30_large_grid/images/randomRBF.png)
+
+#### Dataset:  sea_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.912+-0.003 | 0.901+-0.022 | 0.905+-0.018 | 0.908+-0.006
 | Processing Time | 98.7+-0.5 | 98.8+-0.5 | 1.0+-0.0 | 1.1+-0.0
 | RAM-Hours | 4.8e-03+-3.4e-05 | 3.5e-05+-0.0e+00 | 3.9e-05+-1.0e-06 | 3.0e-06+-0.0e+00
 
-Dataset:  sea_1_2
+![sea_0_1_(w30_large)](/results/window_30_large_grid/images/sea_0_1.png)
+
+#### Dataset:  sea_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.910+-0.013 | 0.906+-0.021 | 0.904+-0.021 | 0.903+-0.021
 | Processing Time | 99.0+-0.6 | 99.0+-0.6 | 1.0+-0.0 | 1.0+-0.0
 | RAM-Hours | 2.2e-03+-1.0e-05 | 2.0e-06+-0.0e+00 | 2.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  sea_2_3
+![sea_1_2_(w30_large)](/results/window_30_large_grid/images/sea_1_2.png)
+
+#### Dataset:  sea_2_3
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.920+-0.006 | 0.899+-0.027 | 0.909+-0.033 | 0.910+-0.013
 | Processing Time | 98.9+-0.5 | 99.0+-0.5 | 1.0+-0.0 | 1.1+-0.0
 | RAM-Hours | 0.0e+00+-0.0e+00 | 2.0e-06+-0.0e+00 | 1.7e-05+-1.0e-06 | 1.0e-06+-0.0e+00
 
-Dataset:  stagger_0_1
+![sea_2_3_(w30_large)](/results/window_30_large_grid/images/sea_2_3.png)
+
+#### Dataset:  stagger_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.907+-0.025 | 0.904+-0.028 | 0.904+-0.030 | 0.897+-0.029
 | Processing Time | 125.5+-0.5 | 125.6+-0.5 | 1.2+-0.0 | 1.2+-0.0
 | RAM-Hours | 2.4e-02+-4.8e-05 | 0.0e+00+-0.0e+00 | 3.8e-05+-1.0e-06 | 0.0e+00+-0.0e+00
 
-Dataset:  stagger_1_2
+![stagger_0_1_(w30_large)](/results/window_30_large_grid/images/stagger_0_1.png)
+
+#### Dataset:  stagger_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.966+-0.006 | 0.966+-0.006 | 0.953+-0.028 | 0.938+-0.035
 | Processing Time | 123.4+-3.1 | 123.5+-3.1 | 1.1+-0.0 | 1.1+-0.0
 | RAM-Hours | 3.1e-02+-5.5e-04 | 3.2e-05+-1.0e-06 | 0.0e+00+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  sine_0_1
+![stagger_1_2_(w30_large)](/results/window_30_large_grid/images/stagger_1_2.png)
+
+#### Dataset:  sine_0_1
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.867+-0.015 | 0.911+-0.018 | 0.886+-0.042 | 0.898+-0.041
 | Processing Time | 87.7+-0.7 | 87.8+-0.7 | 1.0+-0.0 | 1.0+-0.0
 | RAM-Hours | 1.6e-04+-3.0e-06 | 4.6e-04+-6.0e-06 | 2.1e-05+-1.0e-06 | 9.0e-06+-0.0e+00
 
-Dataset:  sine_1_2
+![sine_0_1_(w30_large)](/results/window_30_large_grid/images/sine_0_1.png)
+
+#### Dataset:  sine_1_2
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.840+-0.002 | 0.889+-0.019 | 0.875+-0.021 | 0.883+-0.008
 | Processing Time | 86.5+-1.2 | 86.5+-1.2 | 1.0+-0.0 | 1.0+-0.0
 | RAM-Hours | 4.2e-04+-1.2e-05 | 7.9e-04+-1.3e-05 | 1.4e-05+-1.0e-06 | 1.4e-05+-1.0e-06
 
-Dataset:  sine_2_3
+![sine_1_2_(w30_large)](/results/window_30_large_grid/images/sine_1_2.png)
+
+#### Dataset:  sine_2_3
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.853+-0.003 | 0.870+-0.011 | 0.846+-0.017 | 0.848+-0.007
 | Processing Time | 80.0+-0.6 | 80.0+-0.6 | 0.9+-0.0 | 0.9+-0.0
 | RAM-Hours | 1.7e-03+-1.5e-05 | 2.0e-06+-0.0e+00 | 0.0e+00+-0.0e+00 | 0.0e+00+-0.0e+00
 
-Dataset:  image_segments
+![sine_2_3_(w30_large)](/results/window_30_large_grid/images/sine_2_3.png)
+
+#### Dataset:  image_segments
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.705+-0.008 | 0.647+-0.089 | 0.682+-0.017 | 0.647+-0.058
 | Processing Time | 172.9+-115.6 | 173.1+-115.7 | 4.0+-0.5 | 4.1+-0.5
 | RAM-Hours | 7.6e-01+-7.1e-01 | 2.7e-04+-6.2e-04 | 1.2e-04+-3.0e-05 | 1.9e-05+-5.0e-06
 
-Dataset:  phising
+![image_segments_(w30_large)](/results/window_30_large_grid/images/image_segments.png)
+
+#### Dataset:  phising
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Prequential acc. | 0.775+-0.012 | 0.761+-0.037 | 0.784+-0.005 | 0.781+-0.008
 | Processing Time | 64.7+-59.5 | 64.8+-59.5 | 1.5+-0.0 | 1.5+-0.0
 | RAM-Hours | 7.2e-02+-8.5e-02 | 1.5e-04+-3.2e-04 | 1.5e-05+-1.0e-06 | 2.0e-06+-0.0e+00
+
+![phising_(w30_large)](/results/window_30_large_grid/images/phising.png)
 
 **Mean results for all datasets:**
 | METRICS | Halving | Random Halving | NEIGHBOURS | DIRECT
