@@ -655,11 +655,11 @@ For RAM-Hours:
 **Nemenyi test:**
 
 For Prequential acc.:
-![Nemenyi test](/results/window_30_large_grid/images/pACC_nemenyi.png)
+![Nemenyi test](/results/window_30_large_grid/images/pACC_nemenyi_50_large.png)
 
 For Processing time:
-![Nemenyi test](/results/window_30_large_grid/images/pT_nemenyi.png)
+![Nemenyi test](/results/window_30_large_grid/images/pT_nemenyi_50_large.png)
 
 For RAM-Hours:
-![Nemenyi test](/results/window_30_large_grid/images/RAM_nemenyi.png)
+![Nemenyi test](/results/window_30_large_grid/images/RAM_nemenyi_50_large.png)
 
