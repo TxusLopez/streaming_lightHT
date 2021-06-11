@@ -236,13 +236,13 @@ Developments in Python 3. We have used the following libraries/packages: pandas,
 **Nemenyi test:**
 
 For Prequential acc.:
-![Nemenyi test](/results/window_30/images/pACC_nemenyi.png)
+![Nemenyi test](/results/window_30/images/pACC_nemenyi_50_short.png)
 
 For Processing time:
-![Nemenyi test](/results/window_30/images/pT_nemenyi.png)
+![Nemenyi test](/results/window_30/images/pT_nemenyi_50_short.png)
 
 For RAM-Hours:
-![Nemenyi test](/results/window_30/images/RAM_nemenyi.png)
+![Nemenyi test](/results/window_30/images/RAM_nemenyi_50_short.png)
 
 ### Mean metrics in 25 runs for Window size=300 and short grid
 
