@@ -446,13 +446,13 @@ For RAM-Hours:
 **Nemenyi test:**
 
 For Prequential acc.:
-![Nemenyi test](/results/window_300/images/pACC_nemenyi.png)
+![Nemenyi test](/results/window_300/images/pACC_nemenyi_300_short.png)
 
 For Processing time:
-![Nemenyi test](/results/window_300/images/pT_nemenyi.png)
+![Nemenyi test](/results/window_300/images/pT_nemenyi_300_short.png)
 
 For RAM-Hours:
-![Nemenyi test](/results/window_300/images/RAM_nemenyi.png)
+![Nemenyi test](/results/window_300/images/RAM_nemenyi_300_short.png)
 
 ### Mean metrics in 25 runs for Window size=50 and large grid
 
